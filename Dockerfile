@@ -1,3 +1,3 @@
-FROM golang:1.9-alpine3.7
+FROM golang:1.8-alpine
 
 RUN apk add --no-cache git
